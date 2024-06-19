@@ -7,5 +7,5 @@
 </p>
 <a href="https://drive.google.com/file/d/1l_7ct6eUUisqrVM8iCbiqfiSSw2vJfPs/view?usp=sharing" target="_blank">Demo Video</a>
 <p>IF you want to visit the site,you can go to link given below</p>
-<a href="(https://nitish-kumar-ngh.github.io/SORTING-Visualizer/)" target="_blank">website link</a>
+<a href="https://nitish-kumar-ngh.github.io/SORTING-Visualizer/" target="_blank">website link</a>
 <p>Please feel free to explore the application and provide feedback</p>
